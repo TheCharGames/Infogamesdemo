@@ -1,0 +1,67 @@
+img {
+    width: 300px;
+}
+
+div {
+    width: 350px;
+
+    background-color: limegreen;
+
+    border-width: 10px;
+
+    border-color: maroon;
+
+    border-style: solid;
+
+    display: inline-block;
+
+    height: 500px;
+
+
+    margin: 35px;
+
+    margin-top: 30px;
+
+
+    margin-left: 30px;
+
+
+    margin-bottom: 35px;
+
+
+    padding: 30px;
+
+
+}
+
+h1 {
+    
+    font-size: 30px;
+    
+    color: chocolate;
+    
+}
+
+
+
+
+p {
+
+
+font-size: 20px;
+    
+    color: darkblue;
+    
+    text-align: justify;
+
+}
+
+body {
+    
+    
+    text-align: center;
+    
+    background-color:  dimgray;
+    
+    
+}
